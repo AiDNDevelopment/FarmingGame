@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aba526b75c7af6439be2a76cbdbf261, type: 3}
+  m_Name: Cabbage
+  m_EditorClassIdentifier: 
+  description: A Leafy Green thing
+  thumbnail: {fileID: 8242820234695673801, guid: 7ee2be841239f0141a78cc0060ece82e, type: 3}
+  gameModel: {fileID: 0}
