@@ -13,4 +13,10 @@ public class SeedData : ItemData
     
     //The seedling GameObject
     public GameObject seedling;
+
+    [Header("Regrowable")]
+    //Is the plant regrowable
+    public bool regrowable;
+    //Time taken before regrowing and yielding another crop
+    public int daysToRegrow;
 }

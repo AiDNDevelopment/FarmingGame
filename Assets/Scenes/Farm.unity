@@ -965,8 +965,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 76f3f3bb14da3ef45acf141c5f83e300, type: 2}
   - {fileID: 11400000, guid: e2b8ad0f9d3194f4c9cdb19826e63a5f, type: 2}
   - {fileID: 11400000, guid: 0ef0af85179e80346b0e0c1d65466ffe, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 71e278d2912e1ce4386f7e5ac6bbb8bf, type: 2}
+  - {fileID: 11400000, guid: 29021292b5de84a408062bbad99a250c, type: 2}
   - {fileID: 0}
   equippedTool: {fileID: 0}
   items:
