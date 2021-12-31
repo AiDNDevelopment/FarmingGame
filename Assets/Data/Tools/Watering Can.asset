@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Watering Can
   m_EditorClassIdentifier: 
   description: water water everywhere but not a drop to drink
-  thumbnail: {fileID: -5839387938066880692, guid: 5a9e18fb00b2c1944bc76d5eb81b04b4, type: 3}
+  thumbnail: {fileID: 21300000, guid: 60e59dc0993125a4195284f66e30e3fd, type: 3}
   gameModel: {fileID: 0}
   toolType: 1

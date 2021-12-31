@@ -10,5 +10,7 @@ public class SeedData : ItemData
 
     //How much of ccrop to yield
     public ItemData cropToYield; 
-
+    
+    //The seedling GameObject
+    public GameObject seedling;
 }

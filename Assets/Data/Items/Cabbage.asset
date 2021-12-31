@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   description: A Leafy Green thing
   thumbnail: {fileID: 8242820234695673801, guid: 7ee2be841239f0141a78cc0060ece82e, type: 3}
-  gameModel: {fileID: 0}
+  gameModel: {fileID: 8554979865545778643, guid: aec8969d0290c6d4cbc587ef85a01ce4, type: 3}
